@@ -1,4 +1,4 @@
-Video walkthrough: https://youtu.be/1BKVH2HUuig
+Video walkthrough: https://youtu.be/1BKVH2HUuig | https://youtu.be/sYCKRo7wJVg
 
 - Create virtual machine `instance` (Ubuntu/2GM Memory)
 
